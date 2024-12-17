@@ -2,5 +2,5 @@ pandas
 streamlit
 spotipy
 numpy
-sklearn
+scikit-learn
 re
